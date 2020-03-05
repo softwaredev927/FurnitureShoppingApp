@@ -1,0 +1,6 @@
+framework module Pods_CasAngelTests {
+  umbrella header "Pods-CasAngelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
